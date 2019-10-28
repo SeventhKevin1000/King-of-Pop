@@ -1,10 +1,13 @@
 # King-of-Pop
 
-This is on the Topic of my favorite Music Personality within the industry, Michael Jackson.
+## Michael Joseph Jackson
+
+![Alt Text](mj.png)
+
 
 
 # Background
-Michael Jackson was born August 29, 2019 in Gary, Indiana.
+Michael Jackson was born August 29, 2019 in Gary, Indiana. He has been a performing with his brothers ever since he was 5 years old in the pop group The Jackson Five. While he a child star during the 70s, his breakthough came when he released his first adult album "Off the Wall" in 1979, establishing him as a very important icon in the Music Industry.
 
 
 # Albums
@@ -24,6 +27,9 @@ Within his life as an Adult, Michael Jackson produced 6 standalone Albums:
 
 
 
+
+
 # Humanitarian Work
 
+As much as he worked on Music, many of his works did not make the headlines. Michael Jackson spent several millions on charitable work. We are
 
