@@ -29,7 +29,12 @@ Within his life as an Adult, Michael Jackson produced 6 standalone Albums:
 
 
 
+
+
 # Humanitarian Work
 
 As much as he worked on Music, many of his works did not make the headlines. Michael Jackson spent several millions on charitable work. We are
 
+# Tabloids and Deception
+
+Jackson sadly was also subject to a stagerring amount of tabloids created to defame him over his career.
